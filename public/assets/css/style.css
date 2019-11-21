@@ -1,0 +1,116 @@
+footer{
+width: 114%;
+   background-color: #f03030;
+   margin-left: -190px;
+margin-right: -290px;
+padding: 15px;
+font-family: cursive;
+color: #f0d860;
+outline: #f0d860 solid 6px;
+outline-offset: -12px;
+text-align: center;
+}
+
+.burgerAvailable{
+   background-color: rgb(26, 23, 23);
+   border: gray solid solid dotted solid 10px;
+   color: gray;
+   font-family: monospace;
+   border-radius: 6px;
+   outline: grey solid 2px;
+   outline-offset:-7px ;
+   }
+
+.jumbotron {
+   margin: 20px;
+   border: #f03030 solid 15px;
+   padding: 0%;
+   outline: #f03030 solid 8px;
+   outline-offset: -40px;
+}
+
+h1 {
+   text-align: center;
+   color: #f03030;
+   font-weight: bolder;
+   font-size: 70px;
+   margin: 15px;
+}
+
+h2 {
+   text-align: center;
+   color: white;
+   font-family: cursive;
+   text-decoration: white underline;
+}
+
+body {
+   background-color: #f0d860;
+}
+
+img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 150px;
+   height: 150px;
+   margin-bottom: 10px;
+}
+
+.newBurger {
+   margin-left: 40%;
+   padding: 10px;
+   width: 30%;
+   margin: 10px;
+   padding: 40px;
+   background-image: url(https://www.designpieces.com/wp-content/uploads/2014/02/chalkboard-blue.jpg);
+   margin-left: 13%;
+   margin-top: 20px;
+        border:#f03030 solid 8px;
+   outline:#f03030 solid 5px;
+   outline-offset: -20px;
+}
+
+.li1 {
+   color: white;
+   font-family: cursive
+}
+
+
+.addBurgerButton{
+background-color: white;
+color: gray;
+border: white;
+border-radius: 12px;
+} 
+.li2
+{
+text-decoration: line-through white;
+color: white;
+font-family: cursive
+}
+.eaten {
+  
+        display: block;
+   margin-left: auto;
+   border:#f03030 solid 8px;
+   outline: #f03030 solid 5px;
+   outline-offset: -20px;
+   width: 45%;
+       padding: 40px;
+   background-image: url(https://www.designpieces.com/wp-content/uploads/2014/02/chalkboard-blue.jpg);
+}
+
+.uneaten {
+           display: block;
+   margin-left: auto;
+   padding: 40px;
+     border: #f03030 solid 8px;
+   outline: #f03030 solid 5px;
+   outline-offset: -20px;
+   width: 45%;
+   margin-left: 10px;
+   background-image: url(https://www.designpieces.com/wp-content/uploads/2014/02/chalkboard-blue.jpg);
+
+}
+</style>
